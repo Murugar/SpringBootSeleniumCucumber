@@ -1,0 +1,10 @@
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/pages/BasePage.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/utilities/EnvUtils.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/utilities/PageUtils.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/utilities/CucumberConstants.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/pages/LandingPage.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/DemoServiceIT.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/steps/landing/LandingPageSteps.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/DemoServiceTest.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/steps/BaseSteps.java
+/home/iqmsoft/ruby/SpringBootSeleniumCucumber/app/src/test/java/com/iqmsoft/selenium/cucumber/LandingPageIT.java
