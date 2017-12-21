@@ -1,6 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Spring Boot With Selenium Cucumber Tests,com.iqmsoft.selenium,ManifestInfoContributor,347,10,32,0,53,4,22,3,6,3
-Spring Boot With Selenium Cucumber Tests,com.iqmsoft.selenium,WelcomeController,0,5,0,0,0,2,0,2,0,2
-Spring Boot With Selenium Cucumber Tests,com.iqmsoft.selenium,SpringBootWebApplication,14,3,0,0,3,1,2,1,2,1
-Spring Boot With Selenium Cucumber Tests,com.iqmsoft.selenium.pojo,Address,3,0,0,0,1,0,1,0,1,0
-Spring Boot With Selenium Cucumber Tests,com.iqmsoft.selenium.pojo,Client,8,0,0,0,2,0,1,0,1,0
